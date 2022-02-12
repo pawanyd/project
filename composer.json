@@ -1,0 +1,19 @@
+{
+    "name": "pawanyd/project",
+    "description": "this is my correction project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pawanyd\\Project\\": "packages/pawanyd/project/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pawan kumar",
+            "email": "pawanyd2015@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
