@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Pawanyd\\Project\\": "packages/pawanyd/project/src/"
+            "Pawanyd\\Project\\": "src/"
         }
     },
     "authors": [

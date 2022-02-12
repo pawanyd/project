@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Pawanyd\\Project\\' => array($baseDir . '/packages/pawanyd/project/src'),
+    'Pawanyd\\Project\\' => array($baseDir . '/src'),
 );
