@@ -16,7 +16,7 @@ class ComposerStaticInit25c7a756d51fd315c92a521fc822ea05
     public static $prefixDirsPsr4 = array (
         'Pawanyd\\Project\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/packages/pawanyd/project/src',
         ),
     );
 
